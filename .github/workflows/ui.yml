@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>xww hub</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+        }
+        .container {
+            width: 80%;
+            margin: auto;
+            overflow: hidden;
+        }
+        h1 {
+            text-align: center;
+        }
+        p {
+            text-align: center;
+        }
+        .contact {
+            text-align: center;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>xww hub</h1>
+        <p>一个脚本</p>
+        <div class="contact">
+            <a href="qwerty@accct.us.kg">发送邮件</a> |
+        </div>
+    </div>
+</body>
+</html>
